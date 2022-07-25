@@ -1,13 +1,35 @@
-Massa:
-4 ovos
-4 colheres (sopa) de chocolate em pó
-2 colheres (sopa) de manteiga
-3 xícaras (chá) de farinha de trigo
-2 xícaras (chá) de açúcar
-2 colheres (sopa) de fermento
-1 xícara (chá) de leite
-Calda:
-2 colheres (sopa) de manteiga
-7 colheres (sopa) de chocolate em pó
-2 latas de creme de leite com soro
-3 colheres (sopa) de açúcar
+// Aluno para sistema de gestão escolar
+
+class Aluno{
+    constructor(){
+        this.nome = '';
+        this.idade = '';
+        this.serie = 0;
+        this.ensinoMedio = Boolean;
+        this.nomePai = '';
+        this.nomeMae = '';
+        this.temIrmao = Boolean;
+        this.historicoEscolar = [];
+    };
+
+    AdicionarAluno(){
+
+    };
+
+    EditarDados(){
+
+    };
+
+    AdicionarNota(){
+
+    }
+
+    RemoverAluno(){
+
+    };
+
+    EnviarNotas(){
+
+    };
+
+}; 
