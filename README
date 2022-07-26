@@ -1,4 +1,4 @@
-// Aluno para sistema de gestão escolar
+// Aluno  sistema de gestão escolar
 
 class Aluno{
     constructor(){
